@@ -29,7 +29,7 @@
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
+### 2. [두 번째 프로젝트]https://github.com/howns1026/portpolioio.io/blob/7a71e3d8d665d07ff3ac059930b773e3f49a0a73/index.html#L20
 >두 번째 프로젝트 간략 소개  (팀 프로젝트)  
 >개발 기간: 2020.7.18 ~ 2020.11.5  
 >  
